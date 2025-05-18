@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   fallernetes:
   - apiVersion: v2
-    created: "2025-05-18T12:26:11.867748622Z"
+    created: "2025-05-18T12:45:51.637926908Z"
     description: A Helm chart to distribute the project fallernetes
-    digest: e0f76d579c6d170b587fcb9474176ccef227ab05191f8f8407aaa5239af89123
+    digest: dd2fceb1711cf1608fe055bb1ce609972d41d4165b591631584946e82e4e8cb3
     name: fallernetes
     type: application
     urls:
     - fallernetes-0.1.0.tgz
     version: 0.1.0
-generated: "2025-05-18T12:26:11.865737552Z"
+generated: "2025-05-18T12:45:51.635694943Z"
