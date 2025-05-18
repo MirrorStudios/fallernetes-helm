@@ -57,7 +57,7 @@ spec:
       serviceAccountName: http-controller-service-sa
       containers:
         - name: kube-http-service
-          image: {{ .Values.service.image.repository}}:{{ .Values.service.image.version}}
+          image: {{ .Values.service.image.repository}}:{{ .Values.service.image.tag}}
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
