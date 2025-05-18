@@ -42,7 +42,7 @@ controllerManager:
 
 # [RBAC]: To enable RBAC (Permissions) configurations
 rbac:
-  enable: false
+  enable: true
 
 # [CRDs]: To enable the CRDs
 crd:
